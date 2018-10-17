@@ -1,0 +1,10 @@
+C:\projects\C_Exercise_One\bin\Debug\netcoreapp2.0\C_Exercise_One.deps.json
+C:\projects\C_Exercise_One\bin\Debug\netcoreapp2.0\C_Exercise_One.runtimeconfig.json
+C:\projects\C_Exercise_One\bin\Debug\netcoreapp2.0\C_Exercise_One.runtimeconfig.dev.json
+C:\projects\C_Exercise_One\bin\Debug\netcoreapp2.0\C_Exercise_One.dll
+C:\projects\C_Exercise_One\bin\Debug\netcoreapp2.0\C_Exercise_One.pdb
+C:\projects\C_Exercise_One\obj\Debug\netcoreapp2.0\C_Exercise_One.csproj.CoreCompileInputs.cache
+C:\projects\C_Exercise_One\obj\Debug\netcoreapp2.0\C_Exercise_One.AssemblyInfoInputs.cache
+C:\projects\C_Exercise_One\obj\Debug\netcoreapp2.0\C_Exercise_One.AssemblyInfo.cs
+C:\projects\C_Exercise_One\obj\Debug\netcoreapp2.0\C_Exercise_One.dll
+C:\projects\C_Exercise_One\obj\Debug\netcoreapp2.0\C_Exercise_One.pdb
