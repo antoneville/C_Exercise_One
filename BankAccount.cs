@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ExerciseOne
 {
@@ -45,8 +46,7 @@ namespace ExerciseOne
     public class CurrentAccount : BankAccount
     {
         private double limit;
-
-
+        private List<AccountTransaction> history;
         public double Limit
         {
             get { return limit; }
@@ -56,13 +56,14 @@ namespace ExerciseOne
             : base(accNumber)
         {
             this.limit = limit;
+            Balance = 0;
+            history = new List<AccountTransaction>(50);
         }
 
-        public override string ToString()
+        public override void MakeDeposit()
         {
-            return String.Format(" ");
-        }
 
+        }
         public override void MakeWithDrawals()
         {
             if (limit < Balance)
@@ -74,6 +75,11 @@ namespace ExerciseOne
                 Console.WriteLine("New Balance: {0}", Balance);
                 Console.WriteLine("Transaction Completed");
             }
+        }
+
+        public override string ToString()
+        {
+            return String.Format(" ");
         }
     }
 
